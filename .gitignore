@@ -1,0 +1,7 @@
+# Ignore everything in the parent directory
+../*
+
+# Except these specific files/directories
+!../.config
+!../.zshrc
+!../.bashrc
